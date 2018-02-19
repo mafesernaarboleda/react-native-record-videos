@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998199710985",
+    "project_id": "buzzcuts-2017"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998199710985:android:8167f6bde3594dea",
+        "android_client_info": {
+          "package_name": "com.buzzcuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998199710985-2mu7fv5svja59bvu30tkev0evvan3e4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buzzcuts",
+            "certificate_hash": "15a0e54eb8501098b8e16409736aa5fdc99283e9"
+          }
+        },
+        {
+          "client_id": "998199710985-fgqtpar3ajpg1hinaf1hnpuin2mbf7tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH0jsUzn_RLBIliBi7NCGE5URWnrNIA3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
