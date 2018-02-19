@@ -1,4 +1,3 @@
-# BuzzCuts
 > This application is made with [React Native](https://facebook.github.io/react-native/).
 
 ## Tools used in this project
@@ -18,7 +17,6 @@
 
 
 ## Getting started
-1. [Fork this repository](https://github.com/javiersuazo/project-x-mobile).
 2. Clone your repository ```git@github.com:YOUR_GITHUB_USER/project-x-mobile.git```.
 3. Change the current directory to the project ```cd project-x-mobile```.
 4. Install the project dependencies ```npm install```.
@@ -28,15 +26,6 @@
 
 ## Workflow
 We use [airbnb-javascript](https://github.com/airbnb/javascript) as JavaScript code style guide.
-
-**For code contributions:**
-
-1. [Fork this repository](https://github.com/javiersuazo/project-x-mobile).
-2. Clone your forked repository ```git@github.com:YOUR_GITHUB_USER/project-x-mobile.git```.
-3. We use [git-flow](http://danielkummer.github.io/git-flow-cheatsheet/) and we highly recommend you to install and use it to make the workflow easier.
-4. Create a branch for the feature you will work in. If you have installed git-flow you can use the command ```git flow feature start your-feature-name```.
-5. Upload the feature branch to your forked repository. If you have installed git-flow you can use the command ```git flow feature publish your-feature-name```.
-6. Send a pull request to **develop** with your branch name. (If you does not know how to send a pull request, please [read this](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)).
 
 **Guidelines:**
 * If your code will perform asynchronous operations it must use async/await
