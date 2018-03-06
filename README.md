@@ -25,7 +25,7 @@
 7. Inside another terminal run the application in debug mode ```react-native run-android``` for **Android**, in case you are running the project for **iOS** run ```react-native run-ios```.
 
 ## Workflow
-We use [airbnb-javascript](https://github.com/airbnb/javascript) as JavaScript code style guide.
+We use [airbnb-javascript](https://github.com/airbnb/javascript/tree/master/react) as JavaScript code style guide.
 
 **Guidelines:**
 * If your code will perform asynchronous operations it must use async/await
